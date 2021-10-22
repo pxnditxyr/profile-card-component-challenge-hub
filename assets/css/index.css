@@ -47,6 +47,11 @@ main {
     padding: 0 25px;
 }
 
+.gallery {
+    width: 375%;
+
+}
+
 .card {
     display: flex;
     flex-direction: column;
